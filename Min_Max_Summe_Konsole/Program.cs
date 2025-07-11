@@ -28,9 +28,6 @@ internal class Program
 
         Console.WriteLine("Die Summe der Zufalswerte lautet: " + summe2);
 
-        
-        
-
         Console.ReadLine();
     }
 
